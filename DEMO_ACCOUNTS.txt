@@ -1,0 +1,25 @@
+KAUSHALPULSE DEMO IDS
+======================
+Use the Login page's Demo ID field. Enter one of these IDs and click "Sign in with Demo ID".
+No demo password is required for this quick-access flow.
+
+Students
+DEMO-STUDENT-001  Student · Salem
+DEMO-STUDENT-002  Student · Puducherry
+DEMO-STUDENT-003  Student · Coimbatore
+
+Employers
+DEMO-EMPLOYER-001  Employer · Salem
+DEMO-EMPLOYER-002  Employer · Puducherry
+DEMO-EMPLOYER-003  Employer · Coimbatore
+
+Training Providers
+DEMO-TRAINER-001  Training Provider · Salem
+DEMO-TRAINER-002  Training Provider · Coimbatore
+
+District Admin
+DEMO-ADMIN-001  District Admin · Salem
+DEMO-ADMIN-002  District Admin · Puducherry
+DEMO-ADMIN-003  District Admin · Coimbatore
+
+Normal credential login remains available below the Demo ID quick-login option.

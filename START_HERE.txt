@@ -1,0 +1,32 @@
+KAUSHALPULSE — NATIONAL WORKING PROTOTYPE · UNIFIED ENGINE 8.0
+
+Product: KaushalPulse
+Tagline: Disha for your skills
+
+1. Extract this folder.
+2. Double-click run_backend.bat.
+3. Keep the terminal open until it says:
+   Uvicorn running on http://127.0.0.1:8010
+4. Open OPEN_THIS_FIRST.html.
+5. The login screen has one-click demo login for:
+   Student / Employer / Training Provider / District Admin.
+
+NATIONAL LOCATION MODEL
+- Every workspace/page shows State + District market selectors.
+- The location list is loaded from a national district reference and cached locally.
+- Selecting a new district provisions it in the local database on demand.
+- Read-only pages follow the selected market.
+- Writes remain protected by the signed-in account's assigned district tenant.
+
+DEMO LOGIN
+- DEMO-STUDENT-001
+- DEMO-EMPLOYER-001
+- DEMO-TRAINER-001
+- DEMO-ADMIN-001
+
+Do not close the backend window while using the application.
+
+NATIONAL DATA NOTE
+- On startup the backend attempts to refresh the district master from the configured national reference source when the local master is incomplete.
+- The bundled database is an offline fallback. Do not describe it as a complete current government district list unless a refresh has succeeded.
+- The application shows the current local coverage count and evidence source.
