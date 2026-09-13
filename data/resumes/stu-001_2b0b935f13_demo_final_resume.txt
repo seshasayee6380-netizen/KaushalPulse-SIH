@@ -1,0 +1,4 @@
+Ritkl Student
+Software Engineer
+Skills: Python, SQL, Docker, Cloud, Communication
+Experience: Built web APIs and data pipelines.

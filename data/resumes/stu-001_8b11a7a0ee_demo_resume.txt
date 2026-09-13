@@ -1,0 +1,3 @@
+Name: Demo Student
+Skills: Python, Java, SQL, Docker, AWS, Communication
+Experience: backend APIs
